@@ -1,11 +1,3 @@
-let sizes: string[];
+let pizza: [string, number, boolean];
 
-sizes = ['small', 'medium', 'large'];
-
-let numbers: number[];
-
-numbers = [1, 2, 3];
-
-let toppings: Array<string>;
-
-toppings = ['pepperoni', 'tomato', 'bacon'];
+pizza = ['Pepperoni', 20, true];
